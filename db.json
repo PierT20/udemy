@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "id": "49cb860e-3120-4ced-919e-e02a0e5d26f8",
+      "description": "New Car"
+    },
+    {
+      "id": "cb87704f-6c88-412e-983b-3aeb0177d5fa",
+      "description": "Boom"
+    }
+  ],
+  "values": [
+    {
+      "id": "49cb860e-3120-4ced-919e-e02a0e5d26f8",
+      "isExpense": true,
+      "value": "1000"
+    },
+    {
+      "id": "cb87704f-6c88-412e-983b-3aeb0177d5fa",
+      "isExpense": false,
+      "value": "400"
+    }
+  ]
+}
